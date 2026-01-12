@@ -6,7 +6,9 @@ const skills = [
   'Java 11', 'Spring Boot', 'Spring MVC', 'Spring JPA',
   'Hibernate ORM', 'Microservices', 'Kafka', 'PostgreSQL',
   'Kubernetes', 'Jenkins', 'Docker', 'AWS',
-  'RESTful APIs', 'Aspect Programming', 'JSON Web Token', 'Git/GitHub'
+  'RESTful APIs', 'Aspect Programming', 'JSON Web Token', 'Git/GitHub','Authentication-Authorization',
+  'WebApp-Development','SEO Optimization','Dynamic Email/SMS Delivery Systems','Document Management Systems-AWS/AZURE',
+  'Recurring Payment Modules','Subscription Management'
 ];
 
 export default function Skills() {

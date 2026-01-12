@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Linkedin, Phone, Send, CheckCircle2 } from 'lucide-react';
+import { Mail, Linkedin, Send, CheckCircle2 } from 'lucide-react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
@@ -89,19 +89,6 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-white mb-1">LinkedIn</h3>
                   <p className="text-gray-400 text-sm">Suraj Prasad V</p>
-                </div>
-              </a>
-
-              <a
-                href="tel:+917892828130"
-                className="flex items-start gap-4 p-6 bg-white/5 border border-white/10 rounded-2xl hover:bg-white/10 transition-all group"
-              >
-                <div className="w-12 h-12 bg-blue-500/20 rounded-full flex items-center justify-center text-blue-400 shrink-0 group-hover:scale-110 transition-transform">
-                  <Phone />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-white mb-1">Phone</h3>
-                  <p className="text-gray-400 text-sm">+91 7892828130</p>
                 </div>
               </a>
             </div>
