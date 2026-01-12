@@ -21,7 +21,7 @@ export default function About() {
                 I&apos;m a skilled <strong className="text-white">Software Engineer</strong> with 3 years of experience specializing in Java, Spring Boot Microservices, Kafka, and PostgreSQL.
               </p>
               <p>
-                Currently at <strong className="text-white">Go Digit Insurance</strong>, I excel in building scalable systems, managing seamless data flow, and ensuring robust data storage.
+                Completed 3 Years at <strong className="text-white">Go Digit Insurance</strong>, I excel in building scalable systems, managing seamless data flow, and ensuring robust data storage.
               </p>
               <p>
                 I&apos;m confident in my ability to deliver high-performance solutions and love collaborating with cross-functional teams to create impactful software.
